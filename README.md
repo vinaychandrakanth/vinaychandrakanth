@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinaychandrakanth
+- 👋 Hi, I’m Vinay
 - 👀 I’m interested in Enterprise Architecture, Data, Analytics, AWS Cloud Computing, TOGAF
 - 🌱 I’m currently learning Snowflake
 - 💞️ I’m looking to collaborate on the topics that I am interested in
